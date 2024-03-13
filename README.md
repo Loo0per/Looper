@@ -1,4 +1,8 @@
 # Looper
 Home page 
 
-change with vs!
+no need change with vs!
+
+this is the line from sub branch
+
+line from terminal
